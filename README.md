@@ -6,3 +6,5 @@ Tistory - https://n-a-y-a.tistory.com/
 <img src="https://img.shields.io/badge/apache hadoop-00CAFF?style=for-the-badge&logo=apache hadoop&logoColor=black">
 
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=whi0331)](https://solved.ac/whi0331)
+
