@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=for-the-badge&logo=GNU Bash&logoColor=white">   <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=RedHat&logoColor=white"> 
+<!--<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=for-the-badge&logo=GNU Bash&logoColor=white">   <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=RedHat&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
 
 
@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/apache hadoop-66CCFF?style=for-the-badge&logo=apache hadoop&logoColor=black">  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"> -->
  ```
  ^___^
  (XX) \ __________
