@@ -18,3 +18,4 @@
 ```
 
 :rabbit:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fn3n33%2Fhit-counter&count_bg=%23FFFFFF&title_bg=%23FFFFFF&icon=apachespark.svg&icon_color=%230BABF0&title=HI&edge_flat=false)](https://hits.seeyoufarm.com)
